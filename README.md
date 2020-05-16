@@ -40,7 +40,7 @@ This project was done by me for showing the learnings of internship.
 [![Watch the video](https://img.youtube.com/vi/qIK-vfTig6c/0.jpg)](https://youtu.be/qIK-vfTig6c)
 
 # Screenshots : 
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_36.png" height="400" width="800">
+<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_36.png" alt='Screenshot' height="400" width="800">
 
 # Support :
 <ul>
