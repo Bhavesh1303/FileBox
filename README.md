@@ -7,7 +7,7 @@ This project was done by me for showing the learnings of internship.
     <li>User can upload files and view his/her uploaded files</li>
     <li>User can search and view profile of other users.</li>
     <li>Users can see the shared files by other users also in uploaded files.</li>
-    <li>They can share/transfer their files publicly.</li>
+    <li>They can share/transfer their files publically.</li>
 </ol>
 
 <h4>Additional Features:</h4>
