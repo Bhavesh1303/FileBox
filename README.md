@@ -28,7 +28,10 @@ This project was done by me for showing the learnings of internship.
 
 <h2>Usage :</h2>
 
-    python manage.py makemigrations
+    
+    git clone https://github.com/Bhavesh1303/FileBox.git
+    
+    python manage.py makemigrations 
 
     python manage.py migrate
 
