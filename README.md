@@ -31,6 +31,8 @@ This project was done by me for showing the learnings of internship.
     
     git clone https://github.com/Bhavesh1303/FileBox.git
     
+	cd FileBox
+	
     python manage.py makemigrations 
 
     python manage.py migrate
@@ -41,6 +43,11 @@ This project was done by me for showing the learnings of internship.
 
 # Screenshots : 
 <img src="Screenshots/1.png" alt='Screenshot' height="400" width="800">
+<img src="Screenshots/2.png" alt='Screenshot' height="400" width="800">
+<img src="Screenshots/3.png" alt='Screenshot' height="400" width="800">
+<img src="Screenshots/4.png" alt='Screenshot' height="400" width="800">
+<img src="Screenshots/5.png" alt='Screenshot' height="400" width="800">
+<img src="Screenshots/6.png" alt='Screenshot' height="400" width="800">
 
 # Support :
 <ul>
